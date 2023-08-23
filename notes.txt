@@ -1,0 +1,14 @@
+Overflow: Hidden, Scroll,Auto and Visible
+Icons
+Measurements:
+    px,%,rem,em,vh,vw.
+    em=>used padding, margin(em becomes relative to the font size)
+    rem => font sizes
+    % => when you want the size relative to the parent.
+    vh,vw => use viewport width and height when you want the size relative to the screen size.
+    ch => used for p tag
+
+Media Queries:
+    scree, print, speech and all
+    @media(max-width:500px) and/, orientation:potrait or landscape
+    
